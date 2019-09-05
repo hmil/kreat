@@ -1,0 +1,6 @@
+rootProject.name = 'root'
+
+enableFeaturePreview("GRADLE_METADATA")
+
+includeBuild './kreat'
+includeBuild './examples/todomvc'
